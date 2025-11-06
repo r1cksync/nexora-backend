@@ -38,6 +38,8 @@
 
 Nexora Backend is a robust, scalable API built with **Next.js 14 API Routes** and **MongoDB**. It powers the Nexora e-commerce platform with features like user authentication, product management, shopping cart, order processing, and AI-powered recommendations using **Groq's LLaMA 3.3 70B** model.
 
+Video Demonstration : https://drive.google.com/file/d/1CKWui76ctZkkfF-FFeE-NraLUEuq3Fqx/view?usp=sharing
+
 ### 🎯 Key Highlights
 
 - 🤖 **AI Integration**: Groq LLaMA 3.3 70B for intelligent features
